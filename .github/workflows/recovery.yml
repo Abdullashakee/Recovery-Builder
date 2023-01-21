@@ -62,7 +62,7 @@ jobs:
          env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
          with:
-          tag_name: TWRP_12.1
+          tag_name: TWRP_9.0
           name: TWRP-X698
           files: | 
             work/out/target/product/Infinix-X698/recovery.img
