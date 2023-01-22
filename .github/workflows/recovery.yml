@@ -16,7 +16,7 @@ env:
   MANIFEST: https://github.com/minimal-manifest-twrp/platform_manifest_twrp_aosp.git -b twrp-12.1
 
   DEVICE: Infinix-X698
-  DT_LINK: https://github.com/Abdullashakee/android_device_infinix_Infinix-X698/tree/patch-2
+  DT_LINK: https://github.com/Abdullashakee/android_device_infinix_Infinix-X698/tree/patch-1
   DT_PATH: device/infinix/Infinix-X698
   TARGET: recoveryimage
   TZ: Asia/manila
